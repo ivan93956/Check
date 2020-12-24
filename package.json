@@ -1,0 +1,13 @@
+{
+  "name": "mcmdlogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Rikonardo",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "minecraft-protocol": "^1.11.0",
+    "minecraft-server-util": "^1.1.1"
+  }
+}
